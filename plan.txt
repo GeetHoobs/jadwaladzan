@@ -1,0 +1,23 @@
+test longitude lattitude to athan schedule
+http://praytimes.org/ -> need to modify as indonesian prayer schedule
+
+test location and timezone, get coordinates
+https://developers.google.com/places/
+
+test random keywords based on selected location
+-> react router
+
+test cookies save
+G1tF00k1nHub
+
+test react view from dummy data
+
+
+plan :
+follow the video tutorial, on set up basic react project
+implement on reacThor for testing environment
+test the view and routing with dummy data and various location, with random keywords
+test google places API
+test and modify praytimes
+replace dummy data with real data
+profit! implement it in TankTop, move google analytics and FB pixel
