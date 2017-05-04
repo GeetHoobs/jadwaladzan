@@ -8,7 +8,6 @@ test random keywords based on selected location
 -> react router
 
 test cookies save
-G1tF00k1nHub
 
 test react view from dummy data
 
